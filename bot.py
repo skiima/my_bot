@@ -28,7 +28,7 @@ class Config:
     BOT_TOKEN: str = "8598326938:AAGmui3DA4oRAxN_pQHTenF6L6gEroNFZ9U"
     
     # OpenRouter API
-    OPENROUTER_API_KEY: str = "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"
+    OPENROUTER_API_KEY: str = "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"
     OPENROUTER_API_URL: str = "https://openrouter.ai/api/v1/chat/completions"
     
     # Админ ID
